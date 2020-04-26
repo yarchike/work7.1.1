@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">work 7.1.1</string>
+    <string name="synchronization">Синхронизация</string>
+
+    <string name="dinner">Обед</string>
+    <string name="morning">Утро</string>
+    <string name="evening">Вечер</string>
+
+
+</resources>
